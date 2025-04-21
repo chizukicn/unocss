@@ -27,6 +27,8 @@ The instant on-demand Atomic CSS engine.
 <br>
 
 ## Features
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fchizukicn%2Funocss.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fchizukicn%2Funocss?ref=badge_shield)
+
 
 Inspired by [Windi CSS](http://windicss.org/), [Tailwind CSS](https://tailwindcss.com/), and [Twind](https://github.com/tw-in-js/twind), but:
 
@@ -86,3 +88,6 @@ UnoCSS is made possible thanks to the inspirations from the following projects:
 ## License
 
 [MIT](./LICENSE) License &copy; 2021-PRESENT [Anthony Fu](https://github.com/antfu)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fchizukicn%2Funocss.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fchizukicn%2Funocss?ref=badge_large)
